@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "744429645799",
+    "firebase_url": "https://meeting-u.firebaseio.com",
+    "project_id": "meeting-u",
+    "storage_bucket": "meeting-u.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744429645799:android:67f8dc52bfa008fab25742",
+        "android_client_info": {
+          "package_name": "com.meeting.u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744429645799-h59trl7ou0cq2l9oc5gpq6257mpid3me.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meeting.u",
+            "certificate_hash": "2d42908cc0311cc12d59cfb661c591ce3705c742"
+          }
+        },
+        {
+          "client_id": "744429645799-kja081g6ssi3q4rqhnmp63g0bskcssak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meeting.u",
+            "certificate_hash": "f34937fa85115a89d8e33f118acffd9a747b0c0d"
+          }
+        },
+        {
+          "client_id": "744429645799-8se02n52ffk9bpsof9r7fnj5f6t4sbod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meeting.u",
+            "certificate_hash": "231276f271b8d9a8df0c8c3569533c77bd20f5af"
+          }
+        },
+        {
+          "client_id": "744429645799-l1d9gvfs49vks4541j6cshtkeo7i3g17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9RSsiDPUtgjnraDmnjmYvzPU4_dH360g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744429645799-6d36kv27flk34i8upfuc2n444l97e7lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
